@@ -22,4 +22,4 @@ sudo resize2fs "${VOLUME}1"
 echo "Disk resized successfully.Thank you!"
 
 
-#Thank you all!!!
+#Thank you all!!! Appreciate your time to review the code and my work!
